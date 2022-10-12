@@ -24,6 +24,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilyailyaovch&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilyailyaovch&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyailyaovch&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilyailyaovch&theme=github&utcOffset=3)
 
