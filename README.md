@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-### 👩‍💻 About Me :
+### 💻 About Me :
 - ✈Specialist in Aircraft control systems
 - 📚 I'm currently a student at school 21 student (L'école42 campus in Moscow)
 - 🍏 I’m learning IOS development
