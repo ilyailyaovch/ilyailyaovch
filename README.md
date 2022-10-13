@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/ilyailyaovch" target="_blank">Ilya Ovchinnikov</a>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+✋ </h1>
 
 
 ### 💻 About Me :
@@ -8,7 +8,7 @@
 - 🍏 I’m learning IOS development
 - 🧑 I’m looking to work on real-world projects and contribute to open-source projects with great people
 
-### Languages and Tools:
+### 🧰 Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/ilyailyaovch/ilyailyaovch/main/img/Xcode_icon.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/ilyailyaovch/ilyailyaovch/main/img/C_img.png" style="padding-right:10px;" />
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-### My Stats :
+### ✅ My Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ilyailyaovch)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ilyailyaovch&theme=github)
