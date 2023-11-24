@@ -10,7 +10,7 @@
 - 🧑 I’m looking to work on real-world projects and contribute to open-source projects with great people
 
 ### 🧰 Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/ilyailyaovch/ilyailyaovch/main/img/Xcode_icon.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/ilyailyaovch/ilyailyaovch/main/img/C_img.png" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/ilyailyaovch/ilyailyaovch/main/img/C%2B%2B_Logo.png" style="padding-right:10px;" />
