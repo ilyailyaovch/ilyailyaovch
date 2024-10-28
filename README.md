@@ -4,9 +4,8 @@
 
 ### 💻 About Me :
 - ✈Specialist in Aircraft control systems
-- ✅ Graduate of School 21 and Yandex School (Moscow)
-- 🌍 Graduate of L'école42 (Paris)
-- 🍏 I’m really into IOS development
+- ✅ Graduate of School 21 (L'école42) and Yandex School (Moscow)
+- 🍏 I’m really into IOS development since 2022
 - 🧑 I’m looking to work on real-world projects and contribute to open-source projects with great people
 
 ### 🧰 Languages and Tools:
